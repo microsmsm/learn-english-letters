@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">learn-english-letters</string>
+    <string name="title_activity_main">learn-english-letters</string>
+    <string name="package_name">com.microsmsm.learnenglish</string>
+    <string name="custom_url_scheme">com.microsmsm.learnenglish</string>
+</resources>
